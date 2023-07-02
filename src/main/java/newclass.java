@@ -1,4 +1,4 @@
 
-public class newclass {
+public class newclass extends Runtime{
 
 }
